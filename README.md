@@ -1,3 +1,9 @@
 # Networkwalks_week_3
 
-![image alt](
+Week 3 – Password Cracking
+
+WK3-PM1: JTR (John + Johnny)
+
+![image alt](https://github.com/gbnanthini-57/Networkwalks_week_3/blob/7a44ff2b5760862497ce29621246a5dd5f29e0d6/Week_3_1.png)
+
+
